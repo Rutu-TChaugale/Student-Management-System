@@ -46,7 +46,4 @@ StudentManagementSystem/
 ## 💡 Contributing
 Want to improve this project? Fork the repository, make your changes, and submit a pull request! Contributions are always welcome. 😊
 
-## 📜 License
-This project is licensed under the **MIT License**. See the LICENSE file for details.
-
 
